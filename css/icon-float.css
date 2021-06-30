@@ -1,0 +1,23 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#f0f0f0;
+	color:#171717;
+	border-radius:50px;
+	text-align:center;
+    font-size:30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    z-index:100;
+}
+.float.float-question{
+    bottom:110px;
+	right:40px;
+}
+.my-float{
+	margin-top:16px;
+}
