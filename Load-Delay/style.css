@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, #a8c0ff, #3f2b96);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn{
+    margin-bottom: 10px;
+}
+
+i{
+    color:white;
+}
