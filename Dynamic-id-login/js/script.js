@@ -51,7 +51,6 @@ document.getElementById("submit-form").onclick = function () {
       errormsg.innerText = error;
     }else{
       errormsg.style.display ="none";
-      setTimeout(function(){ location.href = "../../acme/index.html"; }, 5000);
+      setTimeout(function(){ href = "../../acme/index.html"; }, 5000);
     }
 };
-
